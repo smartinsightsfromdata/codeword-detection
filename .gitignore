@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+*.pkl
+LDC99T42-Treebank-3/
+models/
